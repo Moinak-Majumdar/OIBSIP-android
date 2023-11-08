@@ -16,7 +16,7 @@
 
 [<img src="https://img.shields.io/badge/Android-181717?logo=android&logoColor=green"
      alt="Download now"
-     height="50">](https://github.com/Moinak-Majumdar/PixelPerks/releases)
+     height="50">](https://github.com/Moinak-Majumdar/OIBSIP-android/releases)
 
 ### Screenshots
 
