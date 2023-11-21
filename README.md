@@ -1,8 +1,8 @@
 # Oasis Infobyte
 
-### Welcome to my Android Development Internship of ```Oasis Infobyte```. This Project contains multiple tusks developed using flutter.
+### Welcome to my Android Development Internship of ```Oasis Infobyte```. This Project contains multiple tasks developed using flutter.
 
-#### Here I have to complete 3 out of 5 given tusks. Tusks I have completed are following - 
+#### Here I have to complete 3 out of 5 given tasks. Tusks I have completed are following - 
 
 1. **Unit Converter**: A Flutter app that allows you to convert various units, such as Distance, Weight, Temperature and Time.
 
